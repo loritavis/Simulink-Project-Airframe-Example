@@ -5,7 +5,7 @@
  *       y  = 3*u
  *
  *
- * Copyright 1990-2011 The MathWorks, Inc.
+ * Copyright 1990-2014 The MathWorks, Inc.
  */
 
 
